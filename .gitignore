@@ -407,6 +407,7 @@ FodyWeavers.xsd
 *.cer
 *.crt
 *.key
+*.pem
 
 .env
 certs/
@@ -469,3 +470,6 @@ java/.mvn/wrapper/maven-wrapper.jar
 
 # Java settings
 conf.properties
+
+# Playwright
+playwright-report/
